@@ -2,7 +2,8 @@
 Program helps you to get the Best Flights(less distance and time) from one city to another using A* algorithm 
 
 input:
-The input is something like that : source,destination,[start available day,end]
+The input is something like that : source,destination,[start available day,end].
+
 Cairo,Aswan,[tue,friday]
 
 conditions :
