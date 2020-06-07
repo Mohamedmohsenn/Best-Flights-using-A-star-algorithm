@@ -4,7 +4,7 @@ Program helps you to get the Best Flights(less distance and time) from one city 
 input:
 The input is something like that : source,destination,[start available day,end].
 
-Cairo,Aswan,[tue,friday]
+Cairo,Aswan,[tue,fri]
 
 conditions :
 - No flight takes more than 24 hours.
