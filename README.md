@@ -1,6 +1,13 @@
 # Best-Flights-using-A-star-algorithm
 Program helps you to get the Best Flights(less distance and time) from one city to another using A* algorithm 
 
+input:
+The input is something like that : source,destination,[start available day,end]
+Cairo,Aswan,[tue,friday]
+
+conditions :
+- No flight takes more than 24 hours.
+- All flights duration is within only one week start from Saturday 0:00 to friday 23:59
 
 System Component :
 
