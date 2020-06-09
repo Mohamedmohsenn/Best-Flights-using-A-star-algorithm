@@ -1,6 +1,11 @@
 # Best-Flights-using-A-star-algorithm
 Program helps you to get the Best Flights(less distance and time) from one city to another using A* algorithm 
 
+dependencies :
+Two excel files:
+First file named flights contain the flight its arrival time,depature time,source,destination,day
+Second file named cities contain the city its latitude and longitude
+
 input:
 The input is something like that : source,destination,[start available day,end].
 
